@@ -1,0 +1,14 @@
+d:\Python\C#\FractionProject\bin\Debug\net9.0\FractionProject.exe
+d:\Python\C#\FractionProject\bin\Debug\net9.0\FractionProject.deps.json
+d:\Python\C#\FractionProject\bin\Debug\net9.0\FractionProject.runtimeconfig.json
+d:\Python\C#\FractionProject\bin\Debug\net9.0\FractionProject.dll
+d:\Python\C#\FractionProject\bin\Debug\net9.0\FractionProject.pdb
+d:\Python\C#\FractionProject\obj\Debug\net9.0\FractionProject.GeneratedMSBuildEditorConfig.editorconfig
+d:\Python\C#\FractionProject\obj\Debug\net9.0\FractionProject.AssemblyInfoInputs.cache
+d:\Python\C#\FractionProject\obj\Debug\net9.0\FractionProject.AssemblyInfo.cs
+d:\Python\C#\FractionProject\obj\Debug\net9.0\FractionProject.csproj.CoreCompileInputs.cache
+d:\Python\C#\FractionProject\obj\Debug\net9.0\FractionProject.dll
+d:\Python\C#\FractionProject\obj\Debug\net9.0\refint\FractionProject.dll
+d:\Python\C#\FractionProject\obj\Debug\net9.0\FractionProject.pdb
+d:\Python\C#\FractionProject\obj\Debug\net9.0\FractionProject.genruntimeconfig.cache
+d:\Python\C#\FractionProject\obj\Debug\net9.0\ref\FractionProject.dll
