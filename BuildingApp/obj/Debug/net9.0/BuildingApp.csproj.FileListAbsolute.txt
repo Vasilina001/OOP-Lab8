@@ -1,0 +1,14 @@
+d:\Python\C#\BuildingApp\bin\Debug\net9.0\BuildingApp.exe
+d:\Python\C#\BuildingApp\bin\Debug\net9.0\BuildingApp.deps.json
+d:\Python\C#\BuildingApp\bin\Debug\net9.0\BuildingApp.runtimeconfig.json
+d:\Python\C#\BuildingApp\bin\Debug\net9.0\BuildingApp.dll
+d:\Python\C#\BuildingApp\bin\Debug\net9.0\BuildingApp.pdb
+d:\Python\C#\BuildingApp\obj\Debug\net9.0\BuildingApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\Python\C#\BuildingApp\obj\Debug\net9.0\BuildingApp.AssemblyInfoInputs.cache
+d:\Python\C#\BuildingApp\obj\Debug\net9.0\BuildingApp.AssemblyInfo.cs
+d:\Python\C#\BuildingApp\obj\Debug\net9.0\BuildingApp.csproj.CoreCompileInputs.cache
+d:\Python\C#\BuildingApp\obj\Debug\net9.0\BuildingApp.dll
+d:\Python\C#\BuildingApp\obj\Debug\net9.0\refint\BuildingApp.dll
+d:\Python\C#\BuildingApp\obj\Debug\net9.0\BuildingApp.pdb
+d:\Python\C#\BuildingApp\obj\Debug\net9.0\BuildingApp.genruntimeconfig.cache
+d:\Python\C#\BuildingApp\obj\Debug\net9.0\ref\BuildingApp.dll
